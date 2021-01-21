@@ -25,7 +25,7 @@ The dataset for this project is available at: http://insideairbnb.com/get-the-da
 
 ## File Descriptions <a name="files"></a>
 
-There is a notebook named 'Airbnb Rio.ipynb' available in this github that answers the proposed questions mentioned above. The dataset used in the notebook is also available with the name 'listings.csv'.
+There is a notebook named 'Airbnb Rio.ipynb' available in this github that answers the proposed questions mentioned above. The dataset used in the notebook is also available with the name 'listings.zip'.
 
 ## Results<a name="results"></a>
 
