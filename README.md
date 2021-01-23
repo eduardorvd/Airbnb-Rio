@@ -29,7 +29,7 @@ There is a notebook named 'Airbnb Rio.ipynb' available in this github that answe
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available [here]().
+The main findings of the code can be found at the post available [here](https://eduardorvduarte.medium.com/using-data-science-to-understand-the-price-gap-of-airbnb-accommodations-in-rio-de-janeiro-33058a86c15f).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
